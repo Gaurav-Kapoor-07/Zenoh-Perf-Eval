@@ -1,0 +1,7 @@
+test2_rap_quic msg_count evaluation_time_secs median_latency_secs mean_latency_secs msg_freq_Hz throughput_MB_p_sec mean_data_size_B
+oak/stereo/image_raw 290 299.970493 1.360396 1.570191 0.966762 1.781935
+oak/rgb/image_raw/compressed 1809 300.254946 0.625797 0.745098 6.024880 1.039413 172520
+oak/rgb/image_rect 188 297.579753 1.362734 1.760756 0.631763 1.746699
+local_costmap/costmap 203 302.605105 0.378636 0.380979 0.670841 0.002415
+local_costmap/costmap_raw 204 302.605634 0.375328 0.380502 0.674145 0.002427
+oak/rgb/image_raw 168 301.659829 1.473069 1.796477 0.556919 1.539769

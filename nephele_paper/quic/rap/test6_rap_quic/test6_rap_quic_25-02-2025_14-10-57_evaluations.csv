@@ -1,0 +1,2 @@
+test6_rap_quic msg_count evaluation_time_secs median_latency_secs mean_latency_secs msg_freq_Hz throughput_MB_p_sec mean_data_size_B
+oak/stereo/image_raw 945 299.927407 1.088898 1.122170 3.150762 5.807485
